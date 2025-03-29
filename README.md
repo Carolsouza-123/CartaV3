@@ -1,4 +1,3 @@
-
 <html lang="pt-br">
 <head>
     <meta charset="UTF-8">
@@ -77,7 +76,7 @@
     </div>
 
     <div class="container hidden" id="telaCarta">
-        <p>Hoje é um dia especial, e, mesmo com tudo o que aconteceu, eu queria te lembrar o quanto você significa pra mim.</p>
+        <p>Hoje é um dia especial, e, mesmo com tudo o que aconteceu, eu queria vir aqui lembrar o quanto fico feliz por você esta fazendo mais um ano de vida.</p>
         <p>Que você tenha um ano cheio de alegrias, conquistas e, acima de tudo, felicidade. Eu sempre vou guardar com carinho os momentos que passamos juntos.</p>
         <p>Com todo o meu afeto e gratidão por tudo o que vivemos. ❤️</p>
     </div>
