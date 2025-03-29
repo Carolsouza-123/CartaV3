@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="pt-br">
 <head>
     <meta charset="UTF-8">
@@ -97,7 +97,7 @@
 
         function mostrarCarta() {
             transicao("telaMensagem", "telaCarta");
-            setTimeout(iniciarFogos, 2000);
+            setTimeout(iniciarFogos, 10000);
         }
 
         function transicao(esconder, mostrar) {
